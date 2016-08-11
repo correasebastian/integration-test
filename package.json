@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielstern/integration-test-repo.git"
+    "url": "git+https://github.com/correasebastian/integration-test.git"
   },
-  "author": "daniel j stern",
+  "author": "sebastian correa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danielstern/integration-test-repo/issues"
+    "url": "https://github.com/correasebastian/integration-test/issues"
   },
-  "homepage": "https://github.com/danielstern/integration-test-repo#readme",
+  "homepage": "https://github.com/correasebastian/integration-test#readme",
   "dependencies": {
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
