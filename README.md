@@ -2,4 +2,4 @@
 A demo of integration with Github
 #scm
 
-[![Build Status](https://travis-ci.org/danielstern/integration-test-repo-demo.svg?branch=master)](https://travis-ci.org/danielstern/integration-test-repo-demo)
+[![Build Status](https://travis-ci.org/correasebastian/integration-test.svg?branch=master)](https://travis-ci.org/correasebastian/integration-test)
